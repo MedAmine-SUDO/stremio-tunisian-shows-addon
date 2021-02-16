@@ -1,0 +1,17 @@
+{
+    "id": "org.stremio.tunisians",
+    "version": "1.0.0",
+
+    "name": "Tunisian TV Shows Addon",
+    "description": "Sample addon made with Flask providing a few Tunisian TV Shows",
+
+    "types": ["series"],    
+
+    "catalogs": [
+            {"type": "series", "id": "tunisianTVS", "name":"Tunisian TV Shows"}
+    ],
+
+    "resources": [
+        "catalog"
+    ]
+}

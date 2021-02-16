@@ -1,0 +1,15 @@
+{
+    "metas": [
+        { "type": "serie", 
+            "id": "tt0032138", 
+            "name": "Inchallah Mabrouk", 
+            "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elhiwarettounsi.com%2Fvod%2Fserie%2F50%2Finchallah-mabrouk&psig=AOvVaw1PmpBQ29ToXroXq9amF08J&ust=1613578763961000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjUprzn7u4CFQAAAAAdAAAAABAD", 
+            "genres": ["Family", "Comedy"] },
+
+        { "type": "serie", 
+            "id": "tt0017136", 
+            "name": "Dez Takhtef", 
+            "poster": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FEttounsiyaTV%2Fvideos%2F444925966672819%2F&psig=AOvVaw1BOs7YcWpxdFmrbU5sFLLy&ust=1613579076911000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjsqOHo7u4CFQAAAAAdAAAAABAD", 
+            "genres": ["Family", "Game"] }
+    ]
+}
